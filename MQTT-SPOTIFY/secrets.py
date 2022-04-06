@@ -1,0 +1,3 @@
+spotify_user_id = "ffpa3f1eak3tlpctfmjhs7m9d"
+refresh_token = "AQAlT8Ot93cVev-4XnwufYMSWeqH9oq9jF3cUslWN5DIaMWKWI1AcS1gx8T1fd5uPqplYwMoL5Bsoc_uPk6Kw0AldrEGkep03OnA8WGzOCebqdlNWFIIh1sxjDDds49cf9I"
+base64 = "NWIxNWNlNDE4NmUzNDlkZjlkNmQwNTE3MGZhNzk5YzI6ZjA3OWIwNGM4Zjk5NDlhZjg5YmJhNWI2YzM4MTBmNTc="
